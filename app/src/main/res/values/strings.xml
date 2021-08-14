@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IT355 ispit</string>
+    <string name="it355_ispit">IT355 ispit</string>
+    <string name="broj_indeksa">Upišite Vaš broj indeksa:</string>
+    <string name="broj_indeksa_hint">Broj indeksa</string>
+    <string name="zapo_nite_ispit">Započnite ispit</string>
+    <string name="potvrdjujem_odgovor">Potvrđujem odgovor</string>
+    <string name="pogledajte_sve_rezultate">Pogledajte sve rezultate</string>
+    <string name="pohvali_se">Pohvali se</string>
+    <string name="estitamo_polo_ili_ste_ispit">Čestitamo, položili ste ispit!!!</string>
+    <string name="o_nama">O nama</string>
+    <string name="student_u_centru_pa_nje">Student u centru pažnje</string>
+    <string name="pozovite_nas">Pozovite nas</string>
+    <string name="adresa_tadeu_a_ko_u_ka_63_beograd">Adresa: Tadeuša Košćuška 63, Beograd</string>
+</resources>
